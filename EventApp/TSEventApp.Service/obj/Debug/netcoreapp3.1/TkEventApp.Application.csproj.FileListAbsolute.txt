@@ -1,0 +1,16 @@
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TkEventApp.Application.deps.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TkEventApp.Application.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TkEventApp.Application.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TkEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TkEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TKEventApp.Core.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TKEventApp.Core.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.csproj.CopyComplete
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TkEventApp.Application.genruntimeconfig.cache

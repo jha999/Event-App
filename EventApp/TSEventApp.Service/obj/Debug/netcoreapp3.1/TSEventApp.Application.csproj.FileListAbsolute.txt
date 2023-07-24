@@ -1,0 +1,103 @@
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\tusharsaxena\source\repos\TSEventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+D:\tushar-saxena\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+D:\gitlab-repo\Assignment 5 - MVC\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.genruntimeconfig.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Event-App-Asp-Net-MVC-main\Event-App-Asp-Net-MVC-main\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.genruntimeconfig.cache
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.json
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.dev.json
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\source\repos\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.genruntimeconfig.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.deps.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.runtimeconfig.dev.json
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\bin\Debug\netcoreapp3.1\TSEventApp.Core.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.AssemblyReference.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfoInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.AssemblyInfo.cs
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.csproj.CopyComplete
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.dll
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.pdb
+C:\Users\gautamkumar02\Desktop\JALSA_EXPANSE\Project\EventApp\TSEventApp.Service\obj\Debug\netcoreapp3.1\TSEventApp.Application.genruntimeconfig.cache
